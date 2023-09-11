@@ -1,0 +1,23 @@
+Git commands
+1.  git init
+2.  ls -a
+3.  git status
+4.  git add _______(filename)
+5.  git status
+6.  git add .
+7.  git commit -m "added files"
+8.  git config --global user.name iamfahadshaikh
+9.  git config --global user.mail fahadworks32423gmail.com
+10. git branch
+11. git branch branchname
+12. git checkout fahad (switch to fahad)
+13. git log
+14. git status
+15. git merge
+16. git remote add origin https://github.com/iamfahadshaikh/SAP-Edunet.git
+17. git push -u origin master
+18. git push -d origin master
+19. git remote -d origin main
+20. git remote -v origin master
+21. git push origin main --force
+22. 
