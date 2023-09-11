@@ -1,0 +1,110 @@
+CODE UNNATI PROGRAM 2.0
+1, STATISTICAL PREDICTIVE ANALYTICS
+2. IOT
+3. DEEP LEARNINF TECHNOLOGY COMPUTER VISION AND EDGE COMPUTING
+4. SAP BUSINESS TECHNOLOGY PLATFORM
+5. CAPSTONE PROJECT
+6. CERTIFIED
+
+MACHINE LEARNING
+SUPERVISED AND UNSUPERVISED LEARNING
+REINFORCED LEARNING
+EVEN STRANGER THINGS (EXTRACTS OBJECTS PRESENT IN AN IMAGE)
+
+data 
+quantative or qualitative
+quantative discrete and continues
+qualitative nominal and ordinal
+
+NOMINAL
+GOOD, BAD, BETTER
+
+ORDINAL 
+FIRST SECOND THIRD
+
+DISCRERE
+STUDENT COUNT
+
+
+LiBRARIES
+NUMPY
+FOR MULTIDIMENTINAL ARRAY
+PIP INSTALL NUMPY
+import numpy as np
+
+PANDAS
+DATABASE HOLDER AND ACCESSING, FILTERING
+MOSTLY USED TO HANDLE THE STRUCTURED DATA
+PIP INSTALL PANDAS
+import pandas as pd
+
+SEABORN
+PIP INSTALL SEABORN
+for statistical visualization
+used for eda
+exploratory data analysis
+import seaborn as sns
+
+
+Sci-kit learn
+sklearn
+used for ml algorithms
+includes classification and regression
+can be used for deep learning
+
+
+
+
+
+machine learning
+
+                                            Test data 
+                              />                                \>
+data acquisition => data cleaning => model training and building => model testing => model deployment
+
+
+
+#### Basics
+#### pip install numpy
+#### pip install pandas
+#### pip install seaborn
+#### pip install sklearn
+#### pip install scikit-learn
+#### import numpy as np
+#### import pandas as pd
+#### import seaborn as sns
+#### import sklearn
+
+
+
+
+model evaluation
+overfitting
+underfitting
+
+
+
+git and github
+git is software for testing changes
+handles any set of data
+used by programmers to work collaboratively
+developing source code during software development.
+version control and code sharing
+
+
+whereas github 
+is a source code manager
+offers distributed version control.
+centralized code source hosting
+
+git
+centralized version control
+commit and update
+
+distributed version control
+existance of repository
+
+code cycle
+
+
+
